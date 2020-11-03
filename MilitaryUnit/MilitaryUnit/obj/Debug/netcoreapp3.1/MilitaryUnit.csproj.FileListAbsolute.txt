@@ -1,0 +1,16 @@
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.exe
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.deps.json
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.json
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.dev.json
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\bin\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.pdb
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csprojAssemblyReference.cache
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfo.cs
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csproj.CopyComplete
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.genruntimeconfig.cache

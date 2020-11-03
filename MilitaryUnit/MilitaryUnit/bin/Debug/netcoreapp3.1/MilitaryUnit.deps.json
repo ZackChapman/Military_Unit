@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MilitaryUnit/1.0.0": {
+        "dependencies": {
+          "MiltaryUnitClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MilitaryUnit.dll": {}
+        }
+      },
+      "MiltaryUnitClassLibrary/1.0.0": {
+        "runtime": {
+          "MiltaryUnitClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilitaryUnit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiltaryUnitClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

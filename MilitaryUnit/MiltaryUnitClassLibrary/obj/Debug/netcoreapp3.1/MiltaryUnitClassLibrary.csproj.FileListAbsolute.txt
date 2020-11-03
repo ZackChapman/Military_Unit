@@ -1,0 +1,8 @@
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\bin\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.deps.json
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\bin\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\bin\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.pdb
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\obj\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\obj\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.AssemblyInfo.cs
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\obj\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\obj\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\MilitaryUnitTest\MiltaryUnitClassLibrary\obj\Debug\netcoreapp3.1\MiltaryUnitClassLibrary.pdb
